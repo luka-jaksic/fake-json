@@ -1,0 +1,38 @@
+{
+    "books":[{
+            "id" : 1,
+            "title" : "Jibaku Shounen Hanako-kun",
+            "author" : "AidaIro",
+            "image" : "https://upload.wikimedia.org/wikipedia/en/4/44/Toilet-Bound_Hanako-kun_volume_1_cover.jpg",
+            "type" : "Manga"
+        },
+        {
+            "id" : 2,
+            "title" : "Jujutsu Kaisen",
+            "author" : "Gege Akutami",
+            "image" : "https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Jujutsu_kaisen.jpg/220px-Jujutsu_kaisen.jpg",
+            "type" : "Manga"
+        },
+        {
+            "id" : 3,
+            "title" : "Infinite Stratos Vol. 1",
+            "author" : "Izuru Yumizuru",
+            "image" : "https://static.wikia.nocookie.net/infinite-stratos/images/2/2d/Volume_1_new_cover.jpeg/revision/latest?cb=20140316080332",
+            "type" : "Light Novel"
+        },
+        {
+            "id" : 4,
+            "title" : "Jibaku Shounen Hanako-kun",
+            "author" : "AidaIro",
+            "image" : "https://upload.wikimedia.org/wikipedia/en/4/44/Toilet-Bound_Hanako-kun_volume_1_cover.jpg",
+            "type" : "Manga"
+        },
+        {
+            "id" : 5,
+            "title" : "Infinite Stratos Vol. 1",
+            "author" : "Izuru Yumizuru",
+            "image" : "https://static.wikia.nocookie.net/infinite-stratos/images/2/2d/Volume_1_new_cover.jpeg/revision/latest?cb=20140316080332",
+            "type" : "Light Novel"
+        }
+    ]
+}
